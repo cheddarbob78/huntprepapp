@@ -1,0 +1,11 @@
+{
+  "year": 2026,
+  "updatedAt": "2026-07-31",
+  "phases": [
+    { "phase": "Pre-Rut", "start": "2026-10-22", "end": "2026-10-31", "summary": "Scrape and rub activity ramp up as bucks start moving more in daylight." },
+    { "phase": "Seeking", "start": "2026-11-01", "end": "2026-11-07", "summary": "Bucks range further, searching for the first does nearing estrus." },
+    { "phase": "Chasing", "start": "2026-11-08", "end": "2026-11-12", "summary": "Bucks cover ground aggressively and are far less cautious than usual." },
+    { "phase": "Peak Rut", "start": "2026-11-13", "end": "2026-11-17", "summary": "Most bucks are locked down tending does, with sporadic daylight movement." },
+    { "phase": "Post-Rut", "start": "2026-11-18", "end": "2026-11-28", "summary": "Bucks are worn down but still scent-checking for the last breeding chances." }
+  ]
+}
