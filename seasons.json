@@ -1,14 +1,16 @@
 {
   "year": 2026,
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-08-03",
   "southern": [
     { "kind": "Turkey – Spring", "start": "2026-05-01", "end": "2026-05-31" },
     { "kind": "Deer – Early Antlerless", "start": "2026-09-12", "end": "2026-09-20" },
     { "kind": "Deer – Bowhunting", "start": "2026-10-01", "end": "2026-11-20" },
+    { "kind": "Deer – Bowhunting", "start": "2026-12-14", "end": "2026-12-22" },
+    { "kind": "Deer – Bowhunting", "start": "2026-12-26", "end": "2027-01-01" },
     { "kind": "Deer – Regular Firearms", "start": "2026-11-21", "end": "2026-12-13" },
-    { "kind": "Deer – Late Muzzleloader", "start": "2026-12-14", "end": "2026-12-22" }
+    { "kind": "Deer – Late Muzzleloader", "start": "2026-12-14", "end": "2026-12-22" },
     { "kind": "Deer – Late Muzzleloader", "start": "2026-12-26", "end": "2027-01-01" }
-],
+  ],
   "northern": [
     { "kind": "Turkey – Spring", "start": "2026-05-01", "end": "2026-05-31" },
     { "kind": "Deer – Bowhunting", "start": "2026-09-27", "end": "2026-10-23" },
